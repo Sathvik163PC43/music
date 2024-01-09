@@ -1,0 +1,348 @@
+album_id,artist_id,title
+1,1,For Those About To Rock We Salute You
+2,2,Balls to the Wall
+3,2,Restless and Wild
+4,1,Let There Be Rock
+5,3,Big Ones
+6,4,Jagged Little Pill
+7,5,Facelift
+8,6,Warner 25 Anos
+9,7,Plays Metallica By Four Cellos
+10,8,Audioslave
+11,8,Out Of Exile
+12,9,BackBeat Soundtrack
+13,10,The Best Of Billy Cobham
+14,11,Alcohol Fueled Brewtality Live   Disc 1 
+15,11,Alcohol Fueled Brewtality Live   Disc 2 
+16,12,Black Sabbath
+17,12,Black Sabbath Vol  4  Remaster 
+18,13,Body Count
+19,14,Chemical Wedding
+20,15,The Best Of Buddy Guy   The Millenium Collection
+21,16,Prenda Minha
+22,16,Sozinho Remix Ao Vivo
+23,17,Minha Historia
+24,18,Afrociberdelia
+25,18,Da Lama Ao Caos
+26,19,Ac  stico MTV  live 
+27,19,Cidade Negra   Hits
+28,20,Na Pista
+29,21,Ax   Bahia 2001
+30,22,BBC Sessions  Disc 1   live 
+31,23,Bongo Fury
+32,21,Carnaval 2001
+33,24,Chill  Brazil  Disc 1 
+34,6,Chill  Brazil  Disc 2 
+35,50,Garage Inc   Disc 1 
+36,51,Greatest Hits II
+37,52,Greatest Kiss
+38,53,Heart of the Night
+39,54,International Superhits
+40,55,Into The Light
+41,56,Meus Momentos
+42,57,Minha Hist  ria
+43,58,MK III The Final Concerts  Disc 1 
+44,22,Physical Graffiti  Disc 1 
+45,21,Sambas De Enredo 2001
+46,59,Supernatural
+47,37,The Best of Ed Motta
+48,68,The Essential Miles Davis  Disc 1 
+49,68,The Essential Miles Davis  Disc 2 
+50,58,The Final Concerts  Disc 2 
+51,69,Up An  Atom
+52,70,Vin  cius De Moraes   Sem Limite
+53,21,Vozes do MPB
+54,76,Chronicle  Vol  1
+55,76,Chronicle  Vol  2
+56,77,C  ssia Eller   Cole    o Sem Limite  Disc 2 
+57,77,C  ssia Eller   Sem Limite  Disc 1 
+58,58,Come Taste The Band
+59,58,Deep Purple In Rock
+60,58,Fireball
+61,58,Knocking at Your Back Door  The Best Of Deep Purple in the 80 s
+62,58,Machine Head
+63,58,Purpendicular
+64,58,Slaves And Masters
+65,58,Stormbringer
+66,58,The Battle Rages On
+67,78,Vault  Def Leppard s Greatest Hits
+68,79,Outbreak
+69,80,Djavan Ao Vivo   Vol  02
+70,80,Djavan Ao Vivo   Vol  1
+71,41,Elis Regina Minha Hist  ria
+72,81,The Cream Of Clapton
+73,81,Unplugged
+74,82,Album Of The Year
+75,82,Angel Dust
+76,82,King For A Day Fool For A Lifetime
+77,82,The Real Thing
+78,83,Deixa Entrar
+79,84,In Your Honor  Disc 1 
+80,84,In Your Honor  Disc 2 
+81,84,One By One
+82,84,The Colour And The Shape
+83,85,My Way  The Best Of Frank Sinatra  Disc 1 
+84,86,Roda De Funk
+85,27,As Can    es de Eu Tu Eles
+86,27,Quanta Gente Veio Ver  Live 
+87,27,Quanta Gente Veio ver  B  nus De Carnaval
+88,87,Faceless
+89,54,American Idiot
+90,88,Appetite for Destruction
+91,88,Use Your Illusion I
+92,88,Use Your Illusion II
+93,89,Blue Moods
+94,90,A Matter of Life and Death
+95,90,A Real Dead One
+96,90,A Real Live One
+97,90,Brave New World
+98,90,Dance Of Death
+99,90,Fear Of The Dark
+100,90,Iron Maiden
+101,90,Killers
+102,90,Live After Death
+103,90,Live At Donington 1992  Disc 1 
+104,90,Live At Donington 1992  Disc 2 
+105,90,No Prayer For The Dying
+106,90,Piece Of Mind
+107,90,Powerslave
+108,90,Rock In Rio  cd1 
+109,90,Rock In Rio  cd2 
+110,90,Seventh Son of a Seventh Son
+111,90,Somewhere in Time
+112,90,The Number of The Beast
+113,90,The X Factor
+114,90,Virtual XI
+115,91,Sex Machine
+116,92,Emergency On Planet Earth
+117,92,Synkronized
+118,92,The Return Of The Space Cowboy
+119,93,Get Born
+120,94,Are You Experienced 
+121,95,Surfing with the Alien  Remastered 
+122,46,Jorge Ben Jor 25 Anos
+123,96,Jota Quest 1995
+124,97,Cafezinho
+125,98,Living After Midnight
+126,52,Unplugged  live 
+127,22,BBC Sessions  Disc 2   live 
+128,22,Coda
+129,22,Houses Of The Holy
+130,22,In Through The Out Door
+131,22,IV
+132,22,Led Zeppelin I
+133,22,Led Zeppelin II
+134,22,Led Zeppelin III
+135,22,Physical Graffiti  Disc 2 
+136,22,Presence
+137,22,The Song Remains The Same  Disc 1 
+138,22,The Song Remains The Same  Disc 2 
+139,99,A TempestadeTempestade Ou O Livro Dos Dias
+140,99,Mais Do Mesmo
+141,100,Greatest Hits
+142,101,Lulu Santos   RCA 100 Anos De M  sica     lbum 01
+143,101,Lulu Santos   RCA 100 Anos De M  sica     lbum 02
+144,102,Misplaced Childhood
+145,103,Barulhinho Bom
+146,104,Seek And Shall Find  More Of The Best  1963 1981 
+147,105,The Best Of Men At Work
+148,50,Black Album
+149,50,Garage Inc   Disc 2 
+150,50,Kill  Em All
+151,50,Load
+152,50,Master Of Puppets
+153,50,ReLoad
+154,50,Ride The Lightning
+155,50,St  Anger
+156,50,   And Justice For All
+157,68,Miles Ahead
+158,42,Milton Nascimento Ao Vivo
+159,42,Minas
+160,106,Ace Of Spades
+161,108,Demorou   
+162,109,Motley Crue Greatest Hits
+163,110,From The Muddy Banks Of The Wishkah  live 
+164,110,Nevermind
+165,111,Compositores
+166,112,Olodum
+167,113,Ac  stico MTV
+168,113,Arquivo II
+169,113,Arquivo Os Paralamas Do Sucesso
+170,114,Bark at the Moon  Remastered 
+171,114,Blizzard of Ozz
+172,114,Diary of a Madman  Remastered 
+173,114,No More Tears  Remastered 
+174,114,Tribute
+175,115,Walking Into Clarksdale
+176,116,Original Soundtracks 1
+177,117,The Beast Live
+178,118,Live On Two Legs  live 
+179,118,Pearl Jam
+180,118,Riot Act
+181,118,Ten
+182,118,Vs 
+183,120,Dark Side Of The Moon
+184,121,Os C  es Ladram Mas A Caravana N  o P  ra
+185,51,Greatest Hits I
+186,51,News Of The World
+187,122,Out Of Time
+188,124,Green
+189,124,New Adventures In Hi Fi
+190,124,The Best Of R E M   The IRS Years
+191,125,Cesta B  sica
+192,126,Raul Seixas
+193,127,Blood Sugar Sex Magik
+194,127,By The Way
+195,127,Californication
+196,128,Retrospective I  1974 1980 
+197,59,Santana   As Years Go By
+198,59,Santana Live
+199,130,Maquinarama
+200,130,O Samba Pocon  
+201,131,Judas 0  B Sides and Rarities
+202,131,Rotten Apples  Greatest Hits
+203,132,A Sides
+204,53,Morning Dance
+205,133,In Step
+206,134,Core
+207,135,Mezmerize
+208,136, 1997  Black Light Syndrome
+209,137,Live  Disc 1 
+210,137,Live  Disc 2 
+211,138,The Singles
+212,139,Beyond Good And Evil
+213,139,Pure Cult  The Best Of The Cult  For Rockers  Ravers  Lovers   Sinners   uk 
+214,140,The Doors
+215,141,The Police Greatest Hits
+216,142,Hot Rocks  1964 1971  Disc 1 
+217,142,No Security
+218,142,Voodoo Lounge
+219,143,Tangents
+220,143,Transmission
+221,144,My Generation   The Very Best Of The Who
+222,145,Serie Sem Limite  Disc 1 
+223,145,Serie Sem Limite  Disc 2 
+224,146,Ac  stico
+225,146,Volume Dois
+226,147,Battlestar Galactica  The Story So Far
+227,147,Battlestar Galactica  Season 3
+228,148,Heroes  Season 1
+229,149,Lost  Season 3
+230,149,Lost  Season 1
+231,149,Lost  Season 2
+232,150,Achtung Baby
+233,150,All That You Can t Leave Behind
+234,150,B Sides 1980 1990
+235,150,How To Dismantle An Atomic Bomb
+236,150,Pop
+237,150,Rattle And Hum
+238,150,The Best Of 1980 1990
+239,150,War
+240,150,Zooropa
+241,151,UB40 The Best Of   Volume Two  uk 
+242,152,Diver Down
+243,152,The Best Of Van Halen  Vol  I
+244,152,Van Halen
+245,152,Van Halen III
+246,153,Contraband
+247,72,Vinicius De Moraes
+248,155,Ao Vivo  import 
+249,156,The Office  Season 1
+250,156,The Office  Season 2
+251,156,The Office  Season 3
+252,157,Un Led Ed
+253,158,Battlestar Galactica  Classic   Season 1
+254,159,Aquaman
+255,150,Instant Karma  The Amnesty International Campaign to Save Darfur
+256,114,Speak of the Devil
+257,179,20th Century Masters   The Millennium Collection  The Best of Scorpions
+258,180,House of Pain
+259,36,Radio Brasil  O Som da Jovem Vanguarda    Seleccao de Henrique Amaro
+260,196,Cake  B Sides and Rarities
+261,149,LOST  Season 4
+262,197,Quiet Songs
+263,198,Muso Ko
+264,199,Realize
+265,200,Every Kind of Light
+266,201,Duos II
+267,202,Worlds
+268,203,The Best of Beethoven
+269,204,Temple of the Dog
+270,205,Carry On
+271,8,Revelations
+272,206,Adorate Deum  Gregorian Chant from the Proper of the Mass
+273,207,Allegri  Miserere
+274,208,Pachelbel  Canon   Gigue
+275,209,Vivaldi  The Four Seasons
+276,210,Bach  Violin Concertos
+277,211,Bach  Goldberg Variations
+278,212,Bach  The Cello Suites
+279,213,Handel  The Messiah  Highlights 
+280,214,The World of Classical Favourites
+281,215,Sir Neville Marriner  A Celebration
+282,216,Mozart  Wind Concertos
+283,217,Haydn  Symphonies 99   104
+284,218,Beethoven  Symhonies Nos  5   6
+285,219,A Soprano Inspired
+286,220,Great Opera Choruses
+287,221,Wagner  Favourite Overtures
+288,222,Faur    Requiem  Ravel  Pavane   Others
+289,223,Tchaikovsky  The Nutcracker
+290,224,The Last Night of the Proms
+291,225,Puccini  Madama Butterfly   Highlights
+292,226,Holst  The Planets  Op  32   Vaughan Williams  Fantasies
+293,227,Pavarotti s Opera Made Easy
+294,228,Great Performances   Barber s Adagio and Other Romantic Favorites for Strings
+295,229,Carmina Burana
+296,230,A Copland Celebration  Vol  I
+297,231,Bach  Toccata   Fugue in D Minor
+298,232,Prokofiev  Symphony No 1
+299,233,Scheherazade
+300,234,Bach  The Brandenburg Concertos
+301,235,Chopin  Piano Concertos Nos  1   2
+302,236,Mascagni  Cavalleria Rusticana
+303,237,Sibelius  Finlandia
+304,238,Beethoven Piano Sonatas  Moonlight   Pastorale
+305,240,Great Recordings of the Century   Mahler  Das Lied von der Erde
+306,241,Elgar  Cello Concerto   Vaughan Williams  Fantasias
+307,242,Adams  John  The Chairman Dances
+308,243,Tchaikovsky  1812 Festival Overture  Op 49  Capriccio Italien   Beethoven  Wellington s Victory
+309,244,Palestrina  Missa Papae Marcelli   Allegri  Miserere
+310,245,Prokofiev  Romeo   Juliet
+311,226,Strauss  Waltzes
+312,245,Berlioz  Symphonie Fantastique
+313,246,Bizet  Carmen Highlights
+314,247,English Renaissance
+315,208,Handel  Music for the Royal Fireworks  Original Version 1749 
+316,248,Grieg  Peer Gynt Suites   Sibelius  Pell  as et M  lisande
+317,249,Mozart Gala  Famous Arias
+318,250,SCRIABIN  Vers la flamme
+319,251,Armada  Music from the Courts of England and Spain
+320,248,Mozart  Symphonies Nos  40   41
+321,252,Back to Black
+322,252,Frank
+323,253,Carried to Dust  Bonus Track Version 
+324,254,Beethoven  Symphony No  6  Pastoral  Etc 
+325,255,Bartok  Violin   Viola Concertos
+326,256,Mendelssohn  A Midsummer Night s Dream
+327,257,Bach  Orchestral Suites Nos  1   4
+328,258,Charpentier  Divertissements  Airs   Concerts
+329,259,South American Getaway
+330,260,G  recki  Symphony No  3
+331,261,Purcell  The Fairy Queen
+332,262,The Ultimate Relexation Album
+333,263,Purcell  Music for the Queen Mary
+334,264,Weill  The Seven Deadly Sins
+335,265,J S  Bach  Chaconne  Suite in E Minor  Partita in E Major   Prelude  Fugue and Allegro
+336,248,Prokofiev  Symphony No 5   Stravinksy  Le Sacre Du Printemps
+337,266,Szymanowski  Piano Works  Vol  1
+338,267,Nielsen  The Six Symphonies
+339,268,Great Recordings of the Century  Paganini s 24 Caprices
+340,269,Liszt   12   tudes D Execution Transcendante
+341,270,Great Recordings of the Century   Shubert  Schwanengesang  4 Lieder
+342,271,Locatelli  Concertos for Violin  Strings and Continuo  Vol  3
+343,226,Respighi Pines of Rome
+344,272,Schubert  The Late String Quartets   String Quintet  3 CD s 
+345,273,Monteverdi  L Orfeo
+346,274,Mozart  Chamber Music
+347,275,Koyaanisqatsi  Soundtrack from the Motion Picture 
